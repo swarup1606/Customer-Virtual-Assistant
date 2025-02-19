@@ -1,0 +1,26 @@
+# GUI Library
+Pillow
+
+# Text-to-Speech
+pyttsx3
+gTTS
+
+# Speech Recognition
+SpeechRecognition
+
+# HTTP Requests
+requests
+
+# Multimedia / Audio Playback
+pygame
+
+# GUI Framework
+tkinter  # (Comes pre-installed with Python, but included for reference)
+
+# Standard Libraries (No installation needed)
+# json
+# threading
+# os
+# tempfile
+# random
+# time
