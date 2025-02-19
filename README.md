@@ -48,7 +48,7 @@ Welcome to **Customer Virtual Assistant (CVA)**, an innovative Python-based assi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/swarup1606/customer-Virtual-Assistant.git
+   git clone https://github.com/swarup1606/Customer-Virtual-Assistant.git
    cd Customer-Virtual-Assistant
    
 2. **Create a virtual environment:**
